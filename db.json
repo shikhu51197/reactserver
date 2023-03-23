@@ -5,5 +5,34 @@
             "email": "shikhu123@gmail.com",
             "password": "123456"
         }
-    ]
+    ],
+    
+        "todos": [
+          {
+            "id": 1,
+            "title": "Learn Java",
+            "status": false
+          },
+          {
+            "id": 2,
+            "title": "Learn React",
+            "status": true
+          },
+          {
+            "title": "learn html",
+            "status": false,
+            "id": 3
+          },
+          {
+            "title": "learn html",
+            "status": false,
+            "id": 4
+          },
+          {
+            "title": "css",
+            "status": false,
+            "id": 5
+          }
+        ]
+      
 }
